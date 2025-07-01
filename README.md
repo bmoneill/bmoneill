@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [recipes](https://github.com/boneill02/recipes)
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning [Django REST Framework](https://www.django-rest-framework.org/)
 
 - 👯 I’m looking to collaborate on [libc8](https://github.com/boneill02/libc8)
 
