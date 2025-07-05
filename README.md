@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ben</h1>
 <h3 align="center">A software developer in Boston</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=boneill02&label=Profile%20views&color=0e75b6&style=flat" alt="boneill02" /> </p>
-
 - 🔭 I’m currently working on [recipes](https://github.com/boneill02/recipes)
 
 - 🌱 I’m currently learning [Django REST Framework](https://www.django-rest-framework.org/)
